@@ -10,7 +10,7 @@ On their website you can read:
 [DOCS](https://docs.ai-thinker.com/en/esp32-cam)
 
 
-The easiest way to flash this firmware is to go [here](https://espressif.github.io/esptool-js/) and enter 0x0000 as address and flash the bin file [in this repository](#).  
+The easiest way to flash this firmware is to go [here](https://espressif.github.io/esptool-js/) and enter 0x0000 as address and flash the bin file [in this repository]([#](https://raw.githubusercontent.com/0wwafa/ESP32-CAM-ORIGINAL_FIRMWARE/refs/heads/main/esp32_devkit_cam_dump.bin)).  
 
   
 ![ESP32-CAM](https://raw.githubusercontent.com/0wwafa/ESP32-CAM-ORIGINAL_FIRMWARE/refs/heads/main/esp32_cam1.jpg)
